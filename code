@@ -10,7 +10,7 @@ int main() {
         int a;
         int i = 0;
         cout << "Welcome to the periodic table datatbase" << endl;
-        cout << "Do nyou want to start the program" << endl << "2 - exit";
+        cout << "Do you want to start the program" << endl << "2 - exit";
         cin >> a;
         if (a = 2){i = 1;
         cout << "Thank you for using the program"; }
